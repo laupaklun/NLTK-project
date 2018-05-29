@@ -1,0 +1,144 @@
+blog1
+
+hystblog	
+
+Yes, the use of human information interaction is surrounding us at every time and every place. Also, being an engineering student, we should broaden our mind and not limit ourselves in only considering what we learn on the lesson. Therefore, making use of the HII and observing our surroundings can help us to discover more idea of invention to improve our life.
+
+	
+boscoyam3820	
+
+As an information engineering student, I definitely need to design iterative system interface and the related devices. Therefore, it is important for information engineering students to study HII!
+
+Apart from the bookshelf system, I want to use amazon as an example. When you type in the key words, it will show the popular items first. Actually, it is just like what the supermarket did, the supermarket will put the products which is promoting or popular in the front and same as average eye level of human in a market shelf. Therefore, it is really information centric matter involved HII and information is all around us! 
+
+
+terryhungierg3320	
+
+Thank you for your sharing. HII brings many advantages to us. First of all, by using those information, we can study human behaviors. In addition, we can make more accurate recommendation system for the user.
+As an information student, HII is an important topic to us. As what you have mentioned, we should make highly interactive system interface to the user. Also, in order to make the data transmission more safety, we will study network security. Therefore, HII is around us and highly related to IE students.
+	
+
+ierg3320122	
+
+There does have a need to the possession of Human Information interaction, on which people in society are relying. We, as engineers, should design all the systems or products in a user care model that everything is made for users with convenience and simplicity. What we usually should do is to transfer information into some forms for human. For example, we will make use of the big data system for analyzing humans prevalence like searching engine, most popular searching and so on. We can obviously know HII can pose a huge advantage for humans future.
+
+
+trevorwu1001	
+
+Sze, thanks for your insightful opinion. You spoke my mind, really. Lets take a close look at what information engineer do. We write apps as we believe that apps make peoples lives easier; we took product design course as we need to develop our design mindsets, which help us to produce sensible and functional products to solve our clients needs. At the end of the day, we are here to apply technologies to serve peoples need. At the information era, information is everywhere. Making good use of these information can improve our living standard. The key question is how should we apply the information and make it more accessible to human being? This course is made to answer the question. By carrying out sentiment analysis and social network analysis, I believe that we will have a better understanding on how those information is generated and the implication behind it. More importantly, wed be able to understand how information in social network pose impact in our real lives.
+
+
+ierg3320991
+
+Yeah. HII is important to an engineer. As our inventions or developed software are always used by human, we need to know what are their feelings and opinion. By using sentiment analysis and social network analysis, we can know what is the trend and users opinion. We can better improving our inventions.
+However, we should not take unnecessary or private information from user. As an engineering, our integrity and image are important too as we are professionals.
+
+~~
+
+blog2
+
+ierg3320122	
+
+Yes, Is just like what you said in the last paragraph that security and privacy are the biggest obstacle when it comes to constructing the recommendation system. It is rather hard to convince everyone to possess a recommendation system at the expense of their privacy. After experiencing some websites like Rakuten, Taobao, the recommendation system will keep giving you the related website or advertising, even if you are using other websites. Actually, the system knows your preference, and this may pose a danger that some companies will target you as their potential customers and keep promoting you their porducts. This is surely a matter of bothering.
+
+
+ierg3320aplus	
+
+It is good that you have mentioned about 2 main categories of filtering in recommender systems, but actually there is a third type of filtering called hybrid filtering, which is the combination of collaborative and content based filtering. Since both filtering methods has its own pros and cons when creating recommendations, hybrid filtering allows the pros of both filtering methods to be implemented into the design of the filtering system. Actually more and more recommender systems are using this approach in order to provide more accurate predictions of user behaviour.
+However, I do agree that privacy would be a main concern of these recommender systems since lots of user data will be collected and analysed, which might create privacy issues.
+
+
+kelvin0218	
+
+I see the beauty of recommendation system too. However, I think that the recommendation system reveals the improper use of personal data from many website or company. As you mentioned that you never link your Facebook account to Rakuten but eventually Facebook has an advertisement for you about Rakuten. It shows that our data and searching habit leak out to the third party without our permission. Or sometimes this is because we agree to certain terms when we make use of certain services online like Google drive, gmail ,Skype etc. It is very often that users will not read those terms and agree it without reading carefully. Therefore, as a frequent user, we should be more careful to protect our privacy and be aware of the online security problem.
+
+
+hystblog	
+
+Recommendation systems give advantage to both consumer and business. They let user to find their favourite items on online shopping more easily and also give opportunity for company to sell their product. I think the key to make these systems work is the use of big data. Recommendation system cannot do its job without collecting sufficient data. Big data provides a large amount of user data, such as past purchases, browsing history and feedback, for the recommendation systems, so that they can provide relevant and effective recommendations. Therefore, although recommendation systems may rise security and privacy problem, it improves our online shopping experience. Recommendation systems will be more powerful when it make good use of the big data technology.
+
+
+boscoyam3820	
+
+I think everyone has the same experience seeing those Recommended videos, Recommended products etc. Some of them are useful as it can provide further choices for me and similar types of the products or videos. However, some of it is not appropriate for me. Using the example you have mentioned, you watched videos on youtube, the system will show the Recommended videos on the home page. However, most of the videos suggested are those popular but the content may not be relevant. For my experience, I watched the YouTuber A but Recommended videos showed me about the YouTuber B C D or others. I doubt that whether they have profit when promoting them. So, Recommendation Systems is probably using as a profit gaining tools by selling our information and helping others to promote to us!
+
+
+ierg3320wongcheongfai	
+
+Thanks for sharing about the Fascinating Recommendation Systems. I think the recommendation system can benefits our lives in a way that helping people make their decision. For example, people always encounter situation that they do not know how to choose from a few decisions. During this time, the recommendation system could be their friends to help them make their final decision. Just like we always use openrice to help us choose which restaurant to dine with. I think people can base on the recommendation system to help them make decisions but they shouldnt totally trusting this system.
+
+
+lyc3320	
+
+I also think that recommendation systems are fascinating. As you said, the recommendation systems enable us to look for things that we are interested in faster and easier. For example, after watching a video on YouTube, there will be dozens of related video recommendations. They are either from the same producers, celebrities, programs or of the same category. You can spend days on YouTube without searching for a video on your own. Similar situation can also be found when you are shopping online. You can always see words like things you may like, Recommendation systems undoubtedly bring us convenience. It also benefits the business sector to promote their products and to keep track on what consumers want to purchase. However, just like you mentioned, there maybe exchange of our information that we are not aware of. It is worth paying attention to the security problem and the privacy issues caused by recommendation systems.
+
+~~
+
+
+blog3
+
+tommyierg3320	
+
+Thanks for summarising the concepts of physical information, affordance and satisficing and explaining the relationship of them to UX design. I agree that better UX design will definitely improve the product to one more level. Just like the tomato ketchup source example as you mentioned, it will make more convenience to users by applying the UX design to the product. However, designers should keep in mind that to apply suitable UX design in the product while not directly apply every concepts. Therefore, with a good and proper UX design, the product will become more user friendly.
+
+
+hystblog	
+
+You really give a great remind to us that considering User Experience UX design is important an engineer. To develop this kind of design, we can also look at the sub systems and processes within a system. For example, studying the checkout process of an online shopping website to observe whether users find the process of buying goods on the website is easy and pleasant. By investigating deeper to the components of the sub system, we can find out the method to fulfill experience of users. As a result, we can make a good UX design.
+
+
+ierg3320122	
+
+Your opinion in the post does inspire me the necessity of being a designer or even an engineer which is to do our work with great concern to User Experience and also satisficing. As a designer or engineer, we are constructing all the things, be they websites, network systems, software application, hardware, architecture, that need to be encompassed with the concept of satisficing and user experience.
+Once I open a website, I would expect the website is readable and easy to get the whole content of it in a short period. Once I use a mobile app, I would expect it is simple to use and concise to explain the functionalities. To construct these user friendly information, we should possess some user experience to support to which version or functions people actually incline, and we also have to make things with balance between the quality and time used for the user. It is too fancy for users to spend too much time on your product with a view to knowing all the details of it. We have to consider making things simpler to digest.
+
+
+boscoyam3820	
+
+Right Being a software engineer, our responsibility is designing software products for public to use it. Therefore, it is necessary for us to have good UX design especially considering the affordance and satisficing of it, such that users can use it easily. From my opinion, I think there are four elements of designing. 1 value, having the high value can raise the interest of the target users. 2 usability, if it is a website, it should be well constructed, displaying different functions in different pages. 3 adoptablity, it means it can supported by various different. For example, the apps can be downloaded in Android or IOS. 4 desirability, the interface of product should be simple and secrue.
+
+
+Felix	
+
+When thinking about UX design, the definition includes how that experience can be manipulated or influenced by the designer to increase the quality of that experience for the user. Good user experience increases the adoption of that product. Moreover, Thank you for your summarization for the implication of physical information affordance and satisficing to user experience UX. In my opinion, I am impressed by your introduction about the part of userssatisfaction. As a designer, I think it difficult to balance the standard between the product owner and the end user, so that the product is satisfied the requirements to everyone.
+
+
+gloriacww	
+
+If we only focus on the convenience and the efficiency, it can be a good UX design but does it attract customers to buy? In my point of view, users may be attracted by the classic design, Thus, I believe such idea of UX design only applicable for products with short history. So, there is no classic design for such.
+
+~~
+
+blog4
+
+ierg3320122	
+
+As you said, there are undoubtedly a big difference between the digital world and reality that we need to convert digital things into something understandable to us in order to make a connection with the digital world, thus intellectually making our life better. For example, in programming world, be it C++ or Java, we try to build up something in computers and what we need is to convert our idea into something computer can understand. An example is like Changing If I have $20, I will buy an apple to  If(money = 20) return obj apple
+Communicating with or using the internet well is surely the cornerstone to the construction of intellectual world.
+
+boscoyam3320	
+
+The various form of information including physical, semantic and digital is actually representing the same thing. We use different form of information in different cases. For physical information, it is used in the physical world. You can tell the taxi driver about the street location when you do not know the semantic and digital information. Therefore, it can be used to communicate between human to human and more specific. For semantic information, we focus on the relationship between the signifiers and denotations. A hill called Lion Rock because the shape of the hill is similar with a lion. We use it in a common way. For digital information, it is mostly in human  computer interaction because only the computer can read in most of the cases. Moreover, each of the form of information cannot replace each other since they both have an unique function.
+
+
+hystblog	
+
+Digital Cognition is getting important while people having more interaction with the computer world. As an engineering student, communicating with the Internet or the computer will not be a big problem. What we really need to do is to let the public who only have little computer knowledge or even do not know to use computer gain benefit from these technologies. The logic behind the technologies and the interface show to the public should be separated into two clearly so that users will not confuse with the technical problem.
+
+	
+ierg3320wkc	
+
+Digital information is totally different from physical and semantic information. As an engineering student, we should be more familiar with the digital information. So, I think the job of us is to build a good bridge to connect the reality and the digital world. We have to use the knowledge we gain from the university, translate the problem to a digital side with some calculations and convert the solution back to reality. Therefore, I think the important thing is to familiar with both information, so that we can develop the best solution.
+
+	
+atot0907	
+
+Studying engineering made me realize the importance of communication between technical workers eg programmers, technicians and users. I have had a difficult time with some of our schoolmates who have really strong technical background as their communication skills are relatively weak. You have stated a really good point that information needs to be easy to understand for people. After all, inventions are invented for us to use and it should be easily understood by its users.
+
+
+pokeishere	
+
+I am glad to see another discussion about machine learning. I would like to raise a question that what should we do against the replacement of human by deep learning machine?
+I have been mentioned this idea in other blogs. In my opinion, I think machine learning only gives a method to analyze the situation and giving a solution among that. However, it is restricted by the facts happen, no new ideas would be raised. In other term, it is lack of creativity that machine learning cannot overcome with. What do you think about it?
+
+~~
